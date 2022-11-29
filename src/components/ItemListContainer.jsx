@@ -1,6 +1,6 @@
 import React from "react";
 
-const Greeting = ({ title }) => {
+const ItemListContainer = ({ title }) => {
     return <>
         <div className="hero">
 			<p className="hero-title">{title}</p>
@@ -8,4 +8,4 @@ const Greeting = ({ title }) => {
     </>
 }
 
-export default Greeting;
+export default ItemListContainer;

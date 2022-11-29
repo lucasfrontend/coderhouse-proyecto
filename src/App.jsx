@@ -2,6 +2,7 @@ import React from 'react'
 import GlobalStyle from './components/GlobalStyles';
 import Navbar from './components/NavBar'
 import Greting from './components/Greeting'
+import ProductsListContainer from './components/ProductsListContainer'
 import './App.css'
 
 function App() {

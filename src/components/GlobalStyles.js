@@ -7,7 +7,7 @@ export default createGlobalStyle`
     font-size: 16px;
     line-height: 24px;
     font-weight: 400;
-  }
+}
 
 *{
     margin: 0;
